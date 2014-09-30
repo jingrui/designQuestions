@@ -1,0 +1,10 @@
+all the states:
+idle
+up
+down
+load
+unload
+
+all the actions:
+setDestination(floor)
+requestLoad(floor)
